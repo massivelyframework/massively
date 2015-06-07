@@ -1,0 +1,6 @@
+[submodule "control"]
+	path = control
+	url = https://github.com/massivelyframework/control.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/massivelyframework/auth.git
